@@ -11,8 +11,8 @@
   A plataforma dos salvadores de vida
 </p>
 
-<p align="center">
-  <a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50891431316/in/dateposted-public/" title="blood"><img src="https://live.staticflickr.com/65535/50891431316_fbf81bcfa4_b.jpg" width="1024" height="578" alt="blood"></a>
+<p align="center" width="100%">
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50891431316/in/dateposted-public/" title="blood"><img src="https://live.staticflickr.com/65535/50891431316_fbf81bcfa4_c.jpg" width="800" height="451" alt="blood"></a>
 </p>
 
 ## 🚀 Tecnologias
